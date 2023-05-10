@@ -1,0 +1,33 @@
+<html>
+    <head>
+      <title>Авторизация</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+<div class="wrapper fadeInDown">
+    <div id="formContent">
+      <!-- Tabs Titles -->
+      <h2 class="active"> Авторизация </h2>
+      <a href="reg.html"><h2 class="inactive"> Регистрация</h2></a>
+  
+      <!-- Icon -->
+      <div class="fadeIn first">
+        <a href="index.php" ><img src="travel.png"id="icon" alt="User Icon" /></a>
+      </div>
+  
+      <!-- Login Form -->
+      <form action="auth.php" method="post">
+        <input type="text" id="login" class="fadein second" name="login" placeholder="Логин">
+        <input type="password" id="password" class="fadeIn third" name="login" placeholder="Пароль">
+        <input type="submit" class="fadeIn fourth" value="Авторизоваться">
+      </form>
+  
+      <!-- Remind Passowrd -->
+      <div id="formFooter">
+        <a class="underlineHover" href="reg.html">Нет аккаунта? Зарегистрируйтесь!</a>
+      </div>
+    </div>
+  </div>
+</body>
+  </html>
