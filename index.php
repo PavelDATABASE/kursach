@@ -136,7 +136,7 @@
 					    <div class="[caption_block]">
     					    <div class="emphasis-title center">
     							<h2 class="editable block_93116 item-option_751134 field_title">Турагентство</h2>
-    							<p class="lead topmargin-sm editable block_93116 item-option_2 field_text">Описание акции или другая дополнительная информация</p>
+    							<p class="lead topmargin-sm editable block_93116 item-option_2 field_text">Горячие туры по низким ценам!</p>
     						</div>	
 							<form class="landing-wide-form clearfix ajax_form">
 								
